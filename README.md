@@ -1,10 +1,7 @@
-### Hi there 👋
-##I am a student 
-#My name is Okoth Jeniffer
+### Hello 👋
+#Named: Okoth Jeniffer
 
-- 🔭 I’m currently working on my first project
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on php, javascript and python
-- 💬 Ask me about cyber security
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can find quick DIY solutions to a hiccup.
+- 🔭 I’m continously working on ERP software development
+- 👯 Seeking to collaborate on mind-blowing projects
+- 💬 You can definitely ask me about cyber security
+- 😄 If it exists, It can be explored
